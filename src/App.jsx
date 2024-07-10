@@ -92,7 +92,7 @@ function App() {
       <hr />
       <h1 className="text-2xl my-4">Like it?</h1>
       <a
-        href=""
+        href="https://github.com/Ali-Kisang/image-predictor.git"
         className=" bg-black text-white p-4 cursor-pointer hover:bg-white hover:text-black my-4"
       >
         Clone this project here at my Git repo @Kisang 🚀🚀
